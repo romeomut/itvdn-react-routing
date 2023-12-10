@@ -1,0 +1,13 @@
+[{
+    "id": 1,
+    "name": "Michael Jordan",
+    "age": 18,
+    "email": "mj@ukr.net",
+    "img": "https://picsum.photos/200"
+},{
+    "id": 2,
+    "name": "Scottie Pippen",
+    "age": 17,
+    "email": "sp@ukr.net",
+    "img": "https://picsum.photos/200"
+}]
